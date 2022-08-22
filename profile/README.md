@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://github.com/zcamp-inc/.github/blob/main/profile/images/ZCAMP_BANNER.png?raw=true" alt="zcamp banner" />
+  <img src="https://i.imgur.com/nwJZGcu.png" alt="zcamp banner" />
 </p>
 
-<p>
+<p align='center'>
 <img src="https://media.giphy.com/media/1qPQfteuMNBqRyr4yH/giphy.gif" />
-<img src="https://i.imgur.com/tbyl1Ej.png" alt="join" />
+  <a href="mailto:michealelijah301@gmail.com" target="_blank">
+<img src="https://i.imgur.com/tbyl1Ej.png" alt="join" style="margin-left: 10px" />
+  </a>
 </p>
