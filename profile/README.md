@@ -4,7 +4,7 @@
 </p>
 
 ## Yeah, so Discord just released [Student Hubs](https://discord.com/student-hubs) which is exactly what zcamp was supposed to be. So I don't know if its worth it to continue, but whenever I see a problem that zcamp can solve, we'll return. Feel free to read our crappy code(esp FE), contribute if you want to, and fork it...
-
+https://github.com/discord
 
 
 
